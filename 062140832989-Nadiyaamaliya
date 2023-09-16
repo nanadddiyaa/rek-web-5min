@@ -1,0 +1,33 @@
+Kelebihan dan kekurangan PHP 7
+
+Kelebihan PHP
+
+mudah dipelajari
+pengembangan produk berjalan cepat
+program yang ringkas
+program open source
+proses upgrade yang mudah
+komunitas yang besar
+banyak peluang pekerjaan
+
+Kekurangan PHP
+
+persaingan ketat
+mudah ditiru orang lain
+
+Kelebihan dan  PHP 8
+
+JIT Compiler
+Di antara fitur baru utama PHP 8 adalah JIT Compiler yang seharusnya meningkatkan kinerja secara signifikan. PHP tidak dikompilasi, tetapi diinterpretasikan baris demi baris.
+
+JSON extension always activated
+Di versi bahasa skrip yang lebih lama, ekstensi JSON memiliki opsi untuk dinonaktifkan. Karena JSON adalah format data yang penting, bagaimanapun, pengembang PHP memutuskan untuk memastikan bahwa ekstensi diaktifkan setiap saat. 
+
+UNION TYPES
+Union Types dikenal dari bahasa lain seperti C / C ++, TypeScript atau Haskell. Di sini dua atau lebih tipe bisa membentuk satu kesatuan dan tipe yang disebutkan bisa digunakan oleh pengguna PHP 8.
+
+WEAKMAP
+WeakRefs sudah ditambahkan di PHP 7.4 dan dengan PHP 8, bagaimanapun, WeakMaps telah disertakan yang merupakan perpanjangan dari fungsi ini. 
+
+
+
